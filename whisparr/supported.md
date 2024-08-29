@@ -182,6 +182,8 @@ This page is the disambiguation page for all `supported` wiki links (i.e. typica
 - Trakt Popular List {#traktpopularimport}
 - Trakt User {#traktuserimport}
   - This type should be used when using your own watchlist
+- TPDb Scene {#tpdbsceneimport}
+  - This type of list allows you to turn a TPDb Scene search into a list. Most search filters are implemented.
 
 # Metadata
 
